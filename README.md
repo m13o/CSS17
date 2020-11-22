@@ -23,3 +23,5 @@ Duemila17 is a simple HTML template with external CSS style sheet. Here is a bri
 * It can be customized with images and gradients.
 * Automatically highlight for quotes and two classes to highlight text (background or character).
 * It is licensed under CC-BY-SA 3.0 IT
+
+![Anteprima](https://raw.githubusercontent.com/m13o/CSS17/master/d17_preview.PNG)
